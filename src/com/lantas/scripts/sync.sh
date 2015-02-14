@@ -1,4 +1,4 @@
-ANDROID_PACKAGE_NAME="com.lantas.phonebookbeta"
-DB_NAME="backupphonebook.db"
+ANDROID_PACKAGE_NAME=<PACKAGE NAME OF YOUR APP>
+DB_NAME=<FILE_NAME_TO_SYNC>
 SOURCE_DIR="/sdcard/Android/data/$ANDROID_PACKAGE_NAME/files"
 java -jar AndroidDatabaseSync.jar $DB_NAME $SOURCE_DIR

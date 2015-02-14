@@ -14,7 +14,7 @@ public class DatabaseBackupScript {
     public static void main(String[] args) throws IOException {
 
     	String DB_NAME = "";
-        String DATABASE_BACKUP_PATH_ON_DEVICE = "";//"/sdcard/Android/data/com.lantas.phonebookbeta/files/" + DB_NAME;
+        String DATABASE_BACKUP_PATH_ON_DEVICE = "";
         
         
         String path = DatabaseBackupScript.class.getProtectionDomain().getCodeSource().getLocation().getPath();

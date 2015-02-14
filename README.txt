@@ -12,7 +12,7 @@ Installation Instruction
 1. Download adb-sync from https://github.com/google/adb-sync
 2. Add the path of 'android-sync' folder to `PATH` Environment variable
 3. click on sync.cmd/sync.sh in windows/linux system.
-4. There will be a file backupphonebook.db in the same directory
+4. There will be an output file in the same directory
 5. Chill !!!!
 
 """

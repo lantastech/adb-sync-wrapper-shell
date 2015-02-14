@@ -52,4 +52,4 @@ proguard/
 /libs/android-support-v7-appcompat.jar
 
 ormlite-*-javadoc.jar
-
+*~
